@@ -7,7 +7,7 @@ namespace AbstractClass
         static void Main(string[] args)
         {
             Koule k = new Koule(2.66);
-            Console.WriteLine(k.PomerPovrchKObjemu());
+            Console.WriteLine(k.PomerPovrchKObjemu()) ;
         }
     }
 }
